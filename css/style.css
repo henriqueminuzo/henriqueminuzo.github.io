@@ -42,7 +42,7 @@ a {
   margin-bottom: 2.5rem;
 }
 
-main p:first-of-type::first-letter {
+.conteudo p:first-of-type::first-letter {
   float: left;
   font-size: 4.5rem;
   line-height: 1;
