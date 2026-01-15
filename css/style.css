@@ -43,3 +43,14 @@ a {
 }
 
 
+@media (max-width: 600px) {
+  main {
+    margin: 1.5rem auto;
+    padding: 1.5rem 1.2rem;
+  }
+
+  body {
+    font-size: 1.05rem;
+  }
+}
+
