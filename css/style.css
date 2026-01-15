@@ -42,12 +42,4 @@ a {
   margin-bottom: 2.5rem;
 }
 
-.conteudo p:first-of-type::first-letter {
-  float: left;
-  font-size: 4.5rem;
-  line-height: 1;
-  padding-right: 0.5rem;
-  padding-top: 0.2rem;
-  font-family: Garamond, "EB Garamond", serif;
-}
 
