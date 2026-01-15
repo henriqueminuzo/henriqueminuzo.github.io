@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Caixa de Fósforos</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Caixa de Fósforos</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Fósforo</title>
+      <link>http://localhost:1313/posts/primeiro-fosforo/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/primeiro-fosforo/</guid>
+      <description>&lt;p&gt;Há muitos que gostam de usar versículos bíblicos para definir, digamos assim, o conteúdo programático de sua vida. Eu mesmo já fiz isso. Hoje, porém, olho para a Sagrada Escritura de outro modo, e me parece bem desconfortável selecionar trechos isolados.&lt;/p&gt;&#xA;&lt;p&gt;Considero um erro quem o faz? De modo algum. A Palavra de Deus é viva e age de muitos modos. Ainda assim, tenho aprendido que a Escritura não foi dada para ser reduzida a &lt;em&gt;slogans&lt;/em&gt;. Ela é um todo, e esse todo é Palavra de vida.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Segundo Fósforo</title>
+      <link>http://localhost:1313/posts/segundo-fosforo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/segundo-fosforo/</guid>
+      <description>&lt;p&gt;Eu estava na fase jovem e inicial da adultez, sempre tentando entender qual deveria ser o caminho para cultivar uma boa vida espiritual. Já havia lido bastante coisa, tinha cursado Filosofia e iniciava a Teologia.&lt;/p&gt;&#xA;&lt;p&gt;Era evidente que nada seria fácil, mas me parecia igualmente claro que deveria existir uma &lt;strong&gt;chave&lt;/strong&gt;, um segredo que, de tão simples, acabava ficando escondido.&lt;/p&gt;&#xA;&lt;p&gt;Durante as férias da faculdade, trabalhando no lugar de uma secretária que estava ausente, deparei-me com um vídeo na &lt;em&gt;internet&lt;/em&gt; intitulado &lt;em&gt;“Como progredir na caridade?”&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
