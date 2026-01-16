@@ -93,3 +93,91 @@ body {
   font-family: Georgia, serif;
 }
 
+/* ===== Base ===== */
+
+body {
+  background: #f3ecd8;
+  color: #111;
+  font-family: Garamond, "EB Garamond", Georgia, serif;
+  line-height: 1.7;
+  margin: 0;
+}
+
+/* ===== Área de leitura ===== */
+
+main {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 0 1.2rem;
+}
+
+/* ===== Títulos ===== */
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+/* ===== Texto ===== */
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+/* ===== Links ===== */
+
+a {
+  color: #111;
+  text-decoration: underline;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+/* ===== Navegação ===== */
+
+.nav {
+  margin-bottom: 2rem;
+}
+
+.nav a {
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+/* ===== Número do fósforo ===== */
+
+.fosforo {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+/* ===== Página inicial ===== */
+
+.home {
+  font-size: 1.2rem;
+}
+
+.home h1 {
+  font-size: 2.2rem;
+}
+
+/* ===== Mobile ===== */
+
+@media (max-width: 600px) {
+  body {
+    font-size: 1.05rem;
+  }
+
+  main {
+    margin: 1.5rem auto;
+  }
+
+  .home h1 {
+    font-size: 1.8rem;
+  }
+}
+
