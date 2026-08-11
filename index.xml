@@ -1,61 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Caixa de Fósforos</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Caixa de Fósforos</description>
-    <generator>Hugo</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sobre</title>
-      <link>http://localhost:1313/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
-      <description>&lt;p&gt;Uma caixa de fósforos é um objeto simples, mas não pobre.&lt;/p&gt;&#xA;&lt;p&gt;Ela tem estrutura, forma e finalidade.&#xA;Há a madeira que sustenta,&#xA;o invólucro que protege,&#xA;o rótulo que identifica&#xA;e a gaveta que guarda os palitos alinhados, prontos.&lt;/p&gt;&#xA;&lt;p&gt;Uma caixinha pequena costuma trazer  &lt;strong&gt;quarenta fósforos&lt;/strong&gt;.&#xA;Nem poucos, nem excessivos.&#xA;Cada um existe para um único gesto, breve e decisivo.&lt;/p&gt;&#xA;&lt;p&gt;Este espaço foi pensado assim.&lt;/p&gt;&#xA;&lt;p&gt;Cada texto é um fósforo.&#xA;Não se escreve para acumular, mas para &lt;strong&gt;usar&lt;/strong&gt;.&#xA;Alguns acendem luz, outros apenas calor.&#xA;Alguns falham. Faz parte.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Primeiro Fósforo</title>
-      <link>http://localhost:1313/posts/primeiro-fosforo/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/primeiro-fosforo/</guid>
-      <description>&lt;p&gt;Há muitos que gostam de usar versículos bíblicos para definir, digamos assim, o conteúdo programático de sua vida. Eu mesmo já fiz isso. Hoje, porém, olho para a Sagrada Escritura de outro modo, e me parece bem desconfortável selecionar trechos isolados.&lt;/p&gt;&#xA;&lt;p&gt;Considero um erro quem o faz? De modo algum. A Palavra de Deus é viva e age de muitos modos. Ainda assim, tenho aprendido que a Escritura não foi dada para ser reduzida a &lt;em&gt;slogans&lt;/em&gt;. Ela é um todo, e esse todo é Palavra de vida.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Segundo Fósforo</title>
-      <link>http://localhost:1313/posts/segundo-fosforo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/segundo-fosforo/</guid>
-      <description>&lt;p&gt;Eu estava na fase jovem e inicial da adultez, sempre tentando entender qual deveria ser o caminho para cultivar uma boa vida espiritual. Já havia lido bastante coisa, tinha cursado Filosofia e iniciava a Teologia.&lt;/p&gt;&#xA;&lt;p&gt;Era evidente que nada seria fácil, mas me parecia igualmente claro que deveria existir uma &lt;strong&gt;chave&lt;/strong&gt;, um segredo que, de tão simples, acabava ficando escondido.&lt;/p&gt;&#xA;&lt;p&gt;Durante as férias da faculdade, trabalhando no lugar de uma secretária que estava ausente, deparei-me com um vídeo na &lt;em&gt;internet&lt;/em&gt; intitulado &lt;em&gt;“Como progredir na caridade?”&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terceiro Fósforo</title>
-      <link>http://localhost:1313/posts/terceiro-fosforo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/terceiro-fosforo/</guid>
-      <description>&lt;p&gt;Estava um dia em visita a uma família e notei algo bastante comum. Um pequeno, de cerca de dois anos de idade, queria que, a todo momento, seus desejos fossem satisfeitos. Queria sentar-se neste lugar, usar tal prato, beber daquele copo. Tudo precisava acontecer exatamente como ele queria.&lt;/p&gt;&#xA;&lt;p&gt;Em tom mais divertido do que pedagógico, sua avó disse:&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;Meu neto, você precisa aprender a se frustrar&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A frase era simples, quase jogada ao ar, mas dizia algo verdadeiro. &lt;strong&gt;Aprender a se frustrar faz parte do crescimento.&lt;/strong&gt; Toda criança começa cedo a dizer “não” aos pais. Nessa atitude não há ainda malícia, mas algo próprio da infância: a incapacidade de perceber que há quem saiba mais. Trata-se de ignorância natural. Ninguém nasce sabendo o que é melhor para si.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quarto Fósforo</title>
-      <link>http://localhost:1313/posts/quarto-fosforo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/quarto-fosforo/</guid>
-      <description>&lt;p&gt;Depois que o Papa Leão XIV apontou, em novembro passado, alguns filmes que o marcaram por seu valor humano e espiritual, resolvi, quase por brincadeira, fazer o mesmo exercício. O que começou como curiosidade terminou como exame de consciência.&lt;/p&gt;&#xA;&lt;p&gt;Se eu tivesse que escolher quatro filmes que, de algum modo, condensam virtudes cristãs, seriam estes:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;A Vida é Bela&lt;/em&gt; (1997)&lt;br&gt;&#xA;&lt;em&gt;O Senhor dos Anéis&lt;/em&gt; (2001–2003)&lt;br&gt;&#xA;&lt;em&gt;A Paixão de Cristo&lt;/em&gt; (2004)&lt;br&gt;&#xA;&lt;em&gt;Os Miseráveis&lt;/em&gt; (2012)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quinto Fósforo</title>
-      <link>http://localhost:1313/posts/quinto-fosforo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/quinto-fosforo/</guid>
-      <description>&lt;p&gt;Há algumas semanas, alguém comentou pessoalmente que, após ler o Primeiro Fósforo, teria intuído que o blogue giraria exclusivamente em torno de “Senhor dos Anéis”, mas que, ao seguir a leitura, a impressão foi desfeita. Entenda-se também que, em termos de domínio do legendário de Tolkien, não tenho conhecimento avançado para um blogue exclusivo do tema. Não tenha dúvida de que certamente outros textos virão com esse teor, conforme também descubro, entendo e me torno capaz de traduzir em ideias comuns a todos. E, claro, outras temáticas virão, apesar de tudo requerer tempo, silêncio e disposição para refletir (coisas raras). Tendo feito essa consideração, não ironicamente, vamos falar de Tolkien. De novo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sexto Fósforo</title>
-      <link>http://localhost:1313/posts/sexto-fosforo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sexto-fosforo/</guid>
-      <description>&lt;p&gt;Outro dia, perdendo um tempo de vida útil no Instagram, vi a postagem de um fotógrafo que brincava com uma narração daquelas que costumam viralizar. O tom era algo como: “sou muito bom nisso”. Primeiro aparecia a cena comum. Depois, a fotografia produzida a partir dela.&lt;/p&gt;&#xA;&lt;p&gt;Falta de humildade? De jeito nenhum.&lt;/p&gt;&#xA;&lt;p&gt;A humildade está na verdade. E a verdade é que as fotografias eram realmente muito boas.&lt;/p&gt;&#xA;&lt;p&gt;Mas aquilo me recordou um fato passado.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Caixa de Fósforos</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Caixa de Fósforos</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Sobre</title>
+				<link>http://localhost:1313/sobre/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/sobre/</guid>
+				<description>&lt;p&gt;Uma caixa de fósforos é um objeto simples, mas não pobre.&lt;/p&gt;&#xA;&lt;p&gt;Ela tem estrutura, forma e finalidade.&#xA;Há a madeira que sustenta,&#xA;o invólucro que protege,&#xA;o rótulo que identifica&#xA;e a gaveta que guarda os palitos alinhados, prontos.&lt;/p&gt;&#xA;&lt;p&gt;Uma caixinha pequena costuma trazer  &lt;strong&gt;quarenta fósforos&lt;/strong&gt;.&#xA;Nem poucos, nem excessivos.&#xA;Cada um existe para um único gesto, breve e decisivo.&lt;/p&gt;&#xA;&lt;p&gt;Este espaço foi pensado assim.&lt;/p&gt;&#xA;&lt;p&gt;Cada texto é um fósforo.&#xA;Não se escreve para acumular, mas para &lt;strong&gt;usar&lt;/strong&gt;.&#xA;Alguns acendem luz, outros apenas calor.&#xA;Alguns falham. Faz parte.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Primeiro Fósforo</title>
+				<link>http://localhost:1313/posts/primeiro-fosforo/</link>
+				<pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/primeiro-fosforo/</guid>
+				<description>&lt;p&gt;Há muitos que gostam de usar versículos bíblicos para definir, digamos assim, o conteúdo programático de sua vida. Eu mesmo já fiz isso. Hoje, porém, olho para a Sagrada Escritura de outro modo, e me parece bem desconfortável selecionar trechos isolados.&lt;/p&gt;&#xA;&lt;p&gt;Considero um erro quem o faz? De modo algum. A Palavra de Deus é viva e age de muitos modos. Ainda assim, tenho aprendido que a Escritura não foi dada para ser reduzida a &lt;em&gt;slogans&lt;/em&gt;. Ela é um todo, e esse todo é Palavra de vida.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Segundo Fósforo</title>
+				<link>http://localhost:1313/posts/segundo-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/segundo-fosforo/</guid>
+				<description>&lt;p&gt;Eu estava na fase jovem e inicial da adultez, sempre tentando entender qual deveria ser o caminho para cultivar uma boa vida espiritual. Já havia lido bastante coisa, tinha cursado Filosofia e iniciava a Teologia.&lt;/p&gt;&#xA;&lt;p&gt;Era evidente que nada seria fácil, mas me parecia igualmente claro que deveria existir uma &lt;strong&gt;chave&lt;/strong&gt;, um segredo que, de tão simples, acabava ficando escondido.&lt;/p&gt;&#xA;&lt;p&gt;Durante as férias da faculdade, trabalhando no lugar de uma secretária que estava ausente, deparei-me com um vídeo na &lt;em&gt;internet&lt;/em&gt; intitulado &lt;em&gt;“Como progredir na caridade?”&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Terceiro Fósforo</title>
+				<link>http://localhost:1313/posts/terceiro-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/terceiro-fosforo/</guid>
+				<description>&lt;p&gt;Estava um dia em visita a uma família e notei algo bastante comum. Um pequeno, de cerca de dois anos de idade, queria que, a todo momento, seus desejos fossem satisfeitos. Queria sentar-se neste lugar, usar tal prato, beber daquele copo. Tudo precisava acontecer exatamente como ele queria.&lt;/p&gt;&#xA;&lt;p&gt;Em tom mais divertido do que pedagógico, sua avó disse:&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;Meu neto, você precisa aprender a se frustrar&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;A frase era simples, quase jogada ao ar, mas dizia algo verdadeiro. &lt;strong&gt;Aprender a se frustrar faz parte do crescimento.&lt;/strong&gt; Toda criança começa cedo a dizer “não” aos pais. Nessa atitude não há ainda malícia, mas algo próprio da infância: a incapacidade de perceber que há quem saiba mais. Trata-se de ignorância natural. Ninguém nasce sabendo o que é melhor para si.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quarto Fósforo</title>
+				<link>http://localhost:1313/posts/quarto-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/quarto-fosforo/</guid>
+				<description>&lt;p&gt;Depois que o Papa Leão XIV apontou, em novembro passado, alguns filmes que o marcaram por seu valor humano e espiritual, resolvi, quase por brincadeira, fazer o mesmo exercício. O que começou como curiosidade terminou como exame de consciência.&lt;/p&gt;&#xA;&lt;p&gt;Se eu tivesse que escolher quatro filmes que, de algum modo, condensam virtudes cristãs, seriam estes:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;A Vida é Bela&lt;/em&gt; (1997)&lt;br&gt;&#xA;&lt;em&gt;O Senhor dos Anéis&lt;/em&gt; (2001–2003)&lt;br&gt;&#xA;&lt;em&gt;A Paixão de Cristo&lt;/em&gt; (2004)&lt;br&gt;&#xA;&lt;em&gt;Os Miseráveis&lt;/em&gt; (2012)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Quinto Fósforo</title>
+				<link>http://localhost:1313/posts/quinto-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/quinto-fosforo/</guid>
+				<description>&lt;p&gt;Há algumas semanas, alguém comentou pessoalmente que, após ler o Primeiro Fósforo, teria intuído que o blogue giraria exclusivamente em torno de “Senhor dos Anéis”, mas que, ao seguir a leitura, a impressão foi desfeita. Entenda-se também que, em termos de domínio do legendário de Tolkien, não tenho conhecimento avançado para um blogue exclusivo do tema. Não tenha dúvida de que certamente outros textos virão com esse teor, conforme também descubro, entendo e me torno capaz de traduzir em ideias comuns a todos. E, claro, outras temáticas virão, apesar de tudo requerer tempo, silêncio e disposição para refletir (coisas raras). Tendo feito essa consideração, não ironicamente, vamos falar de Tolkien. De novo.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sexto Fósforo</title>
+				<link>http://localhost:1313/posts/sexto-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/sexto-fosforo/</guid>
+				<description>&lt;p&gt;Outro dia, perdendo um tempo de vida útil no Instagram, vi a postagem de um fotógrafo que brincava com uma narração daquelas que costumam viralizar. O tom era algo como: “sou muito bom nisso”. Primeiro aparecia a cena comum. Depois, a fotografia produzida a partir dela.&lt;/p&gt;&#xA;&lt;p&gt;Falta de humildade? De jeito nenhum.&lt;/p&gt;&#xA;&lt;p&gt;A humildade está na verdade. E a verdade é que as fotografias eram realmente muito boas.&lt;/p&gt;&#xA;&lt;p&gt;Mas aquilo me recordou um fato passado.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sétimo Fósforo</title>
+				<link>http://localhost:1313/posts/setimo-fosforo/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/setimo-fosforo/</guid>
+				<description>&lt;p&gt;[O texto a seguir contém spoilers fundamentais sobre dois filmes: &lt;em&gt;The Dark Knight Rises&lt;/em&gt; (2012) e &lt;em&gt;La vita è bella&lt;/em&gt; (1997)]&lt;/p&gt;&#xA;&lt;p&gt;Desde criança, um dos meus heróis favoritos sempre foi o Batman: um sujeito que, sem superpoderes, enfrenta os criminosos de Gotham City.&lt;/p&gt;&#xA;&lt;p&gt;Foi emocionante quando, aos doze anos, um amigo me chamou para ir à sua casa. Seu pai havia alugado um VHS do novo filme do Batman. Era o início do que, anos depois, ficaria conhecido como a &amp;ldquo;Trilogia Nolan&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
