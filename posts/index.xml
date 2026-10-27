@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 14:03:46 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -61,6 +61,13 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/setimo-fosforo/</guid>
 				<description>&lt;p&gt;[O texto a seguir contém spoilers fundamentais sobre dois filmes: &lt;em&gt;The Dark Knight Rises&lt;/em&gt; (2012) e &lt;em&gt;La vita è bella&lt;/em&gt; (1997)]&lt;/p&gt;&#xA;&lt;p&gt;Desde criança, um dos meus heróis favoritos sempre foi o Batman: um sujeito que, sem superpoderes, enfrenta os criminosos de Gotham City.&lt;/p&gt;&#xA;&lt;p&gt;Foi emocionante quando, aos doze anos, um amigo me chamou para ir à sua casa. Seu pai havia alugado um VHS do novo filme do Batman. Era o início do que, anos depois, ficaria conhecido como a &amp;ldquo;Trilogia Nolan&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Oitavo Fosforo</title>
+				<link>http://localhost:1313/posts/oitavo-fosforo/</link>
+				<pubDate>Tue, 27 Oct 2026 14:03:46 -0300</pubDate>
+				<guid>http://localhost:1313/posts/oitavo-fosforo/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>
